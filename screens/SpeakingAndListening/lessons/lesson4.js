@@ -77,7 +77,7 @@ function SpeakingLesson4() {
             A. Baseball {"\n"}
             B. Basketball {"\n"}
             C. Football {"\n"}
-            D. Soccer {"\n"} {"\n"} {"\n"} {"\n"} {"\n"} {"\n"}
+            D. Soccer {"\n"} {"\n"}
           </Text>
         </View>
     </ScrollView>

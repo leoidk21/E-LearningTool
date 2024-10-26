@@ -79,7 +79,7 @@ function SpeakingLesson5() {
             A. Stretch {"\n"}
             B. Walk around {"\n"}
             C. Jump rope for 15 minutes {"\n"}
-            D. Bicycle for 30 minutes {"\n"} {"\n"} {"\n"} {"\n"} {"\n"} {"\n"}
+            D. Bicycle for 30 minutes {"\n"} {"\n"}
           </Text>
         </View>
     </ScrollView>

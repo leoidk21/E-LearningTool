@@ -77,7 +77,7 @@ function SpeakingLesson1() {
             A. At 7:30pm after dinner {"\n"}
             B. At noontime {"\n"}
             C. At one o'clock {"\n"}
-            D. At 3:45pm {"\n"} {"\n"} {"\n"} {"\n"} {"\n"} {"\n"}
+            D. At 3:45pm {"\n"}
           </Text>
         </View>
     </ScrollView>

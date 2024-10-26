@@ -78,7 +78,7 @@ function SpeakingLesson3() {
             A. Abstract painting {"\n"}
             B. Regular painting {"\n"}
             C. House painting {"\n"}
-            D. Oil painting {"\n"} {"\n"} {"\n"} {"\n"} {"\n"} {"\n"}
+            D. Oil painting {"\n"}
           </Text>
         </View>
     </ScrollView>

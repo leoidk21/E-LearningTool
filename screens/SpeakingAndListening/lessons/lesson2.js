@@ -78,7 +78,7 @@ function SpeakingLesson2() {
             A. AAmazing {"\n"}
             B. Terrific {"\n"}
             C. Educational {"\n"}
-            D. Interesting {"\n"} {"\n"} {"\n"} {"\n"} {"\n"} {"\n"}
+            D. Interesting {"\n"}
           </Text>
         </View>
     </ScrollView>

@@ -173,7 +173,6 @@ const styles = StyleSheet.create({
     fontSize: 20,
     color: colors.white,
   },
-
   textExample: {
     padding: 20,
     marginTop: 20,
@@ -184,7 +183,6 @@ const styles = StyleSheet.create({
     width: '100%',
     height: 'auto',
   },
-
   QuizContainer: {
       borderRadius: 5,
       marginTop: 40,
@@ -192,7 +190,6 @@ const styles = StyleSheet.create({
       height: 'auto',
       alignItems: 'center',
       justifyContent: 'center',
-
   },
   QuizBox: {
       padding: 20,
